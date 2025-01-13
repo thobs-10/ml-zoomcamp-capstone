@@ -170,5 +170,5 @@ Thumbs.db
 *.json
 *.xml
 *.parquet
-*.joblib
+# *.joblib
 *.pkl
