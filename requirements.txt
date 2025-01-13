@@ -39,7 +39,6 @@ MarkupSafe==3.0.2
 matplotlib==3.10.0
 matplotlib-inline==0.1.7
 mdurl==0.1.2
--e git+https://github.com/thobs-10/ml-zoomcamp-capstone.git@3ea3e3ff03f99fbf7e680f0463ae3ee71b46e85e#egg=ml_zoomcamp_course_capstone_project
 nest-asyncio==1.6.0
 numpy==2.2.1
 packaging==24.2
